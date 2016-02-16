@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./deprosodiahiber00flangoog_0002.png"; bbox 0 0 2813 4313; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 753 975 1920 1211">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 753 975 1920 1211">
+     <span class='ocr_line' id='line_1_1' title="bbox 753 975 1920 1106; baseline -0.003 -48"><span class='ocrx_word' id='word_1_1' title='bbox 753 977 1329 1106; x_wconf 84' lang='lat' dir='ltr'>HARVARD</span> <span class='ocrx_word' id='word_1_2' title='bbox 1395 975 1920 1056; x_wconf 89' lang='lat' dir='ltr'>COLLEGE</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 1087 1127 1593 1211; baseline -0.012 -1"><span class='ocrx_word' id='word_1_3' title='bbox 1087 1127 1593 1211; x_wconf 84' lang='lat' dir='ltr'><strong>LIBRARY</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 807 2298 1879 2487">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 807 2298 1879 2487">
+     <span class='ocr_line' id='line_1_3' title="bbox 807 2298 1879 2364; baseline -0.002 0"><span class='ocrx_word' id='word_1_4' title='bbox 807 2301 1019 2363; x_wconf 86' lang='lat' dir='ltr'><strong>FRED</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1061 2301 1376 2364; x_wconf 89' lang='lat' dir='ltr'>NORRIS</span> <span class='ocrx_word' id='word_1_6' title='bbox 1418 2298 1879 2363; x_wconf 90' lang='lat' dir='ltr'>ROBINSON</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 1179 2435 1503 2487; baseline -0.003 -7"><span class='ocrx_word' id='word_1_7' title='bbox 1179 2435 1298 2480; x_wconf 74' lang='grc' dir='ltr'><strong>α..</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 1324 2435 1379 2480; x_wconf 70' lang='grc' dir='ltr'><strong>οε</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1400 2438 1503 2487; x_wconf 62' lang='grc' dir='ltr'><strong>,οφ</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1107 2602 1578 2648">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1107 2602 1578 2648">
+     <span class='ocr_line' id='line_1_5' title="bbox 1107 2602 1578 2648; baseline 0 -1"><span class='ocrx_word' id='word_1_10' title='bbox 1107 2603 1189 2648; x_wconf 73' lang='lat'><strong>01¹</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 1211 2602 1578 2647; x_wconf 71' lang='lat' dir='ltr'>CAMBRIDGE</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 122 666 2156 2925">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 122 666 2156 2925">
+     <span class='ocr_line' id='line_1_6' title="bbox 122 666 2156 2925; baseline 0 0"><span class='ocrx_word' id='word_1_12' title='bbox 122 666 2156 2925; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 1220 3702 2146 4263">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 1220 3702 2146 4263">
+     <span class='ocr_line' id='line_1_7' title="bbox 1220 3702 2146 4263; baseline 0 50"><span class='ocrx_word' id='word_1_13' title='bbox 1220 3702 2146 4263; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
